@@ -34,7 +34,7 @@ const About = () => {
                 <CheckCircle2 size={32} />
               </div>
               <div>
-                <span className="block text-4xl font-serif font-bold text-brand-navy mb-1">15+</span>
+                <span className="block text-4xl font-serif font-bold text-brand-navy mb-1">25+</span>
                 <span className="text-sm font-bold text-brand-text/80 uppercase tracking-wider">Years of <br />Experience</span>
               </div>
             </motion.div>

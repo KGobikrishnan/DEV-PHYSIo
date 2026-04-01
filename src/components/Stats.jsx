@@ -2,7 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 const stats = [
-  { value: "25+", label: "Years of Experience" },
+  { value: "25+", label: "Specialized Treatments" },
   { value: "99%", label: "Success Rate" },
   { value: "10,000+", label: "Happy Patients" }
 ];
